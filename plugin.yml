@@ -1,0 +1,11 @@
+name: AutoMessage
+main: amata1219.auto.message.AutoMessage
+version: 1.0.0
+author: amata1219(Twitter@amata1219)
+
+commands:
+  amreload:
+    description: main command.
+    usage: /<command>
+    permission: auto.message.amreload
+    permission-message: You do not have permission(<permission>).
